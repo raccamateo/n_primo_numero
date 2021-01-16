@@ -1,4 +1,4 @@
-# n_primo_numero es un algoritmo que nos permite encontrar los número primos encontrados en la posición "n". 
+# n_primo_numero es un algoritmo que nos permite encontrar el número primo encontrados en la posición "n". 
 
 Está configurado para buscar números primos ubicados en el rango 3-10000, aunque es modificable (línea 22 del script). 
 
